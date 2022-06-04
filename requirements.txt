@@ -1,0 +1,8 @@
+# App
+flask  >= 2.0, <3.0
+
+# Dev
+pytest  >= 7.0, <8.0
+bcrypt  >= 3.2, <4.0
+pyjwt
+datetime
